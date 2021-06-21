@@ -1,4 +1,4 @@
-# URL2PP
+# URL2MPC-HC
 A clipboard monitor for http/https video file links that will launch MPC-HC if a link to a video file or a list of video file URLs (one URL per line, only line breaks - no spaces accepted) gets copied to the clipboard.
 This is entirely written and compiled into a binary using AutoHotKey.
 
